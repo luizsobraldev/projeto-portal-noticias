@@ -20,4 +20,13 @@ div{
   padding-block: 14px;
   border: 1px solid var(--stroke-color);
   border-inline: none;
+  justify-content: space-between;
+}
+
+#secondary a:nth-child(1){
+  margin-left: 32px;
+}
+
+#secondary a:nth-child(7){
+  margin-right: 32px;
 }
