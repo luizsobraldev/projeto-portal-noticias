@@ -64,5 +64,5 @@ main{
   text-transform: uppercase;
   letter-spacing: 0.4px;
   color: var(--text-color-primary);
-  box-shadow: 0px 4px 16px 0px rgba(28, 67, 245, 0.25);
+  box-shadow: 0px 4px 16px 0px rgba(2, 6, 23, 0.25);
 }
